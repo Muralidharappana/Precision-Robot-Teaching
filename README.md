@@ -93,9 +93,7 @@ Validated collision-free joint-space motion
 
 <div align="center">
 
-[![Watch Demo](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](media/demo. mp4)
-
-*5-minute demonstration:  Connection → Teaching → Collision Detection → Execution → Precision Analysis*
+[![Watch Demo](https://img.youtube.com/vi/PLACEHOLDER/maxresdefault.jpg)](media/demo.mp4)
 
 **[📥 Download Demo Video](media/demo.mp4)** *(87 MB)*
 
