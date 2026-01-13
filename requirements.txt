@@ -1,0 +1,24 @@
+# GUI Framework
+PyQt5>=5.15.9
+
+# Numerical Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# YAML Handling
+pyyaml>=6.0
+
+# System Integration
+psutil>=5.9.0
+
+# Development Tools
+pytest>=7.3.0
+
+# ROS 2 Python (install via apt:  ros-humble-rclpy)
+# Not in PyPI - see documentation
