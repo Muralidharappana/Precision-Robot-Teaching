@@ -17,7 +17,7 @@
 
 ---
 
-<img src="media/full_workspace. png" alt="Complete System Workspace" width="90%"/>
+<img src="media/full_workspace.png" alt="Complete System Workspace" width="90%"/>
 
 *Complete workspace:  HMI control interface, RViz 3D visualization, and execution terminal*
 
@@ -326,7 +326,7 @@ Precision-Robot-Teaching/
 
 ## 📚 **Documentation**
 
-**[📖 Complete Technical Documentation](docs/TECHNICAL_DOCUMENTATION.md)** *(47 pages)*
+**[📖 Complete Technical Documentation](docs/TECHNICAL_DOCUMENTATION.md)**
 
 Includes:
 - Detailed system architecture
